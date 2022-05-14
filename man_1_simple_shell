@@ -1,4 +1,4 @@
-.TH SHELL(1) "20 April 2022" "1.0" "man page of simple_shell"
+.TH SHELL(1) "14 May 2022" "1.0" "man page of simple_shell" By ALX Holberton School students Cohort 5
 .SH NAME
 .B shell - command interpreter (shell)
 .SH SYNOPSIS
@@ -75,4 +75,4 @@ PATH=/home/julien/bin:/home/julien/.local/bin:/usr/local/sbin:/usr/local/bin:/us
 DISPLAY=:0
 .br
 .SH AUTHORS
-JHOJAN DAVID PERLAZA and ANDRES FELIPE OCAÑA
+Yitbarek Yakob and Abenezer Eshetie
